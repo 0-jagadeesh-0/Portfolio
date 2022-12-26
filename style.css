@@ -102,11 +102,12 @@ section{
     justify-content: center;
     align-items: center;
 }
+#about div{
+    margin: 0 5%;
+}
 .about-text{
     color:#5C2E7E;
     text-align: center;
-    font-size: 2rem;
-    font-weight: bold;
 }
 
 
@@ -210,9 +211,6 @@ section{
     .pic{
         width: 200px;
         height: 200px;
-    }
-    .about-text{
-        font-size: 1rem;
     }
     .title{
         font-size: 2rem;
